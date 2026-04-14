@@ -1,3 +1,3 @@
-module mtv.sso.v1
+module github.com/methhj/sso-protos
 
 go 1.25.4
